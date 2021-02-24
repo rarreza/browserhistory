@@ -22,3 +22,38 @@ img {
   float: left;
   padding-right: 20px;
 }
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+  
+}
+#navbar li {
+  display: inline;
+  background-color: black;
+}
+#navbar a {
+  margin-left: 75px;
+  margin-right: 75px;
+  background-color: red;
+}
+
+.left {
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.middle {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
